@@ -1,1 +1,2 @@
 class Hi
+class Hello
